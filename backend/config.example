@@ -1,0 +1,5 @@
+class Config:
+    DB_USER='XX'
+    DB_PASSWORD='X'
+    PG_HOST=''
+    PG_PORT='X'
